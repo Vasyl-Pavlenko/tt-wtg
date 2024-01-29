@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tt-wtg/static/css/main.232bcdca.css",
+    "main.js": "/tt-wtg/static/js/main.d70b9505.js",
+    "index.html": "/tt-wtg/index.html",
+    "main.232bcdca.css.map": "/tt-wtg/static/css/main.232bcdca.css.map",
+    "main.d70b9505.js.map": "/tt-wtg/static/js/main.d70b9505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.232bcdca.css",
+    "static/js/main.d70b9505.js"
+  ]
+}
